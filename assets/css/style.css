@@ -1,0 +1,63 @@
+body {
+    background-image: url(../images/background3.png);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+h1 {
+    color: #434146;
+    text-align: center;
+}
+main {
+    flex: 1 0 auto;
+}
+
+.brand-logo {
+    margin-left: 20px;
+}
+
+.card {
+    margin: 15px 5px;
+}
+
+.img-left {
+    width: 500px;
+    margin: 25px;
+}
+.img-right {
+    width: 500px;
+    margin: 25px;
+}
+.margin-bottom {
+    background-color: #434146;
+    height: 10px;
+}
+
+.margin-top {
+    margin-bottom: 0px;
+}
+
+.nav-wrapper {
+    background-color: #f8a082;
+}
+
+.page-footer {
+    background-color: #3c0b29;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.resume {
+    display: block;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+.top-nav {
+    background-color: #3c0b29;
+    height: 10px;
+    margin: 0;
+    padding: 0px;
+}
+
