@@ -35,6 +35,21 @@ p {
     margin: 15px 5px;
 }
 
+.logo {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo2 {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .margin-bottom {
     background-color: #434146;
     height: 10px;
@@ -76,3 +91,6 @@ p {
 }
 
 
+ul {
+    list-style-type: disc;
+}
